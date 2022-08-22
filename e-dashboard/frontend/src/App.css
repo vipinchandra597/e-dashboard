@@ -1,0 +1,98 @@
+  .nav-ul li {
+    display: inline-block;
+    padding: 10px;
+  }
+
+  .nav-ul li a {
+    color: rgb(21, 19, 19);
+    padding: 5px;
+    text-decoration: none;
+  }
+
+  .nav-ul {
+    margin: 0;
+    padding: 5px;
+    background-color: beige;
+  }
+
+  .footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: beige;
+  }
+
+  .register,.product {
+    margin-left: 30%;
+  }
+
+  .inputBox {
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid rgb(190, 190, 19);
+  }
+
+
+  .button {
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: beige;
+    border: 1px solid;
+    cursor: pointer;
+  }
+
+  .login {
+    margin-left: 30%;
+    margin-top: 100px;
+  }
+
+  .nav-right {
+    text-align: right;
+  }
+
+  .logo {
+    width: 45px;
+    float: left;
+    margin-top: 3px;
+    margin-left: 20px;
+    background-color: rgb(2, 32, 32);
+    border-radius: 4px;
+  }
+
+  span{
+    margin-top: -20px;
+    display: block;
+    color: red;
+    margin-left: 20px;
+    font-size: small;
+  }
+
+  .product-list{
+    text-align: center;
+    margin-top: 50px;
+
+  }
+  .product-list li {
+    display: inline-block;
+    border: 1px solid beige;
+    padding: 5px;
+    width: 150px;
+  }
+
+  .product-list ul {
+    margin: 0;
+  }
+
+  .search-product-box{
+    width: 400px;
+    margin:20px;
+    height: 38px;
+    padding-left: 30px;
+    border: solid 1px beige;
+
+  }
+
